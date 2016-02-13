@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1444115010 source:d:\save\c++\projectrpg\characters.cpp
+	"Characters.h"
+
+1444114330 d:\save\c++\projectrpg\characters.h
+	"Entity.h"
+
+1444819926 d:\save\c++\projectrpg\entity.h
+	"Includes.h"
+
+1444898810 d:\save\c++\projectrpg\includes.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<typeinfo>
+	<fstream>
+
+1445092768 source:d:\save\c++\projectrpg\cleanup.cpp
+	"Game.h"
+
+1445092498 d:\save\c++\projectrpg\game.h
+	"Includes.h"
+	"OnAnimate.h"
+	"Entity.h"
+	"Characters.h"
+
+1421768100 d:\save\c++\projectrpg\onanimate.h
+	"Includes.h"
+
+1205563020 source:d:\save\c++\projectrpg\ctile.cpp
+	"CTile.h"
+
+1416340380 d:\save\c++\projectrpg\ctile.h
+	"Define.h"
+
+1416340310 d:\save\c++\projectrpg\define.h
+	"Game.h"
+
+1444819926 source:d:\save\c++\projectrpg\entity.cpp
+	"Entity.h"
+	"Game.h"
+
+1445081329 source:d:\save\c++\projectrpg\game.cpp
+	"Game.h"
+
+1415790922 source:d:\save\c++\projectrpg\loadcontent.cpp
+	"Game.h"
+
+1444314168 source:d:\save\c++\projectrpg\onanimate.cpp
+	"OnAnimate.h"
+
+1445081506 source:d:\save\c++\projectrpg\onevent.cpp
+	"Game.h"
+
+1445092498 source:d:\save\c++\projectrpg\oninit.cpp
+	"Game.h"
+	"OnAnimate.h"
+
+1444900205 source:d:\save\c++\projectrpg\onrender.cpp
+	"Game.h"
+
+1445092498 source:d:\save\c++\projectrpg\onloop.cpp
+	"Game.h"
+	"FPS.h"
+
+1443351820 d:\save\c++\projectrpg\fps.h
+
+1424894988 d:\save\c++\projectrpg\mysql\include\mysql.h
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"mysql/client_plugin.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1424899844 d:\save\c++\projectrpg\mysql\include\mysql_version.h
+	<custom_conf.h>
+
+1424894988 d:\save\c++\projectrpg\mysql\include\mysql_com.h
+
+1424894988 d:\save\c++\projectrpg\mysql\include\mysql_time.h
+
+1424894988 d:\save\c++\projectrpg\mysql\include\my_list.h
+
+1424894988 d:\save\c++\projectrpg\mysql\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	<mysql/plugin_auth_common.h>
+
+1424894988 d:\save\c++\projectrpg\mysql\include\typelib.h
+	"my_alloc.h"
+
+1424894988 d:\save\c++\projectrpg\mysql\include\my_alloc.h
+	<mysql/psi/psi_memory.h>
+
+1444115010 source:i:\save\c++\projectrpg\characters.cpp
+	"Characters.h"
+
+1444114330 i:\save\c++\projectrpg\characters.h
+	"Entity.h"
+
+1444819926 i:\save\c++\projectrpg\entity.h
+	"Includes.h"
+
+1444898810 i:\save\c++\projectrpg\includes.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<typeinfo>
+	<fstream>
+
+1445092768 source:i:\save\c++\projectrpg\cleanup.cpp
+	"Game.h"
+
+1445092498 i:\save\c++\projectrpg\game.h
+	"Includes.h"
+	"OnAnimate.h"
+	"Entity.h"
+	"Characters.h"
+
+1421764500 i:\save\c++\projectrpg\onanimate.h
+	"Includes.h"
+
+1205559420 source:i:\save\c++\projectrpg\ctile.cpp
+	"CTile.h"
+
+1416336780 i:\save\c++\projectrpg\ctile.h
+	"Define.h"
+
+1416336710 i:\save\c++\projectrpg\define.h
+	"Game.h"
+
+1444819926 source:i:\save\c++\projectrpg\entity.cpp
+	"Entity.h"
+	"Game.h"
+
+1446456809 source:i:\save\c++\projectrpg\game.cpp
+	"Game.h"
+
+1415787322 source:i:\save\c++\projectrpg\loadcontent.cpp
+	"Game.h"
+
+1444314168 source:i:\save\c++\projectrpg\onanimate.cpp
+	"OnAnimate.h"
+
+1445081506 source:i:\save\c++\projectrpg\onevent.cpp
+	"Game.h"
+
+1445092498 source:i:\save\c++\projectrpg\oninit.cpp
+	"Game.h"
+	"OnAnimate.h"
+
+1445113370 source:i:\save\c++\projectrpg\onloop.cpp
+	"Game.h"
+	"FPS.h"
+
+1443351820 i:\save\c++\projectrpg\fps.h
+
+1446456836 source:i:\save\c++\projectrpg\onrender.cpp
+	"Game.h"
+

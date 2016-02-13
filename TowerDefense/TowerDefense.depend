@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1445717473 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefence\cleanup.cpp
+	"Game.h"
+
+1445719692 c:\users\d1m1tur\documents\codeblocks projects\towerdefence\game.h
+	"Includes.h"
+	"OnAnimate.h"
+	"Entity.h"
+
+1445718731 c:\users\d1m1tur\documents\codeblocks projects\towerdefence\includes.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<typeinfo>
+	<fstream>
+
+1421764500 c:\users\d1m1tur\documents\codeblocks projects\towerdefence\onanimate.h
+	"Includes.h"
+
+1445718356 c:\users\d1m1tur\documents\codeblocks projects\towerdefence\entity.h
+	"Includes.h"
+
+1445719085 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefence\entity.cpp
+	"Game.h"
+
+1445720557 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefence\fps.cpp
+	"Game.h"
+
+1445721616 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefence\game.cpp
+	"Game.h"
+
+1444314168 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefence\onanimate.cpp
+	"OnAnimate.h"
+
+1445717473 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefence\onevent.cpp
+	"Game.h"
+
+1445719861 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefence\oninit.cpp
+	"Game.h"
+
+1445720557 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefence\onloop.cpp
+	"Game.h"
+
+1445717473 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefence\onrender.cpp
+	"Game.h"
+
+1447248495 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\tile.cpp
+	"TILE.h"
+	"Game.h"
+
+1446389462 c:\users\d1m1tur\documents\codeblocks projects\towerdefense\include\tile.h
+	"Includes.h"
+
+1445717473 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\cleanup.cpp
+	"Game.h"
+
+1446018755 c:\users\d1m1tur\documents\codeblocks projects\towerdefense\include\game.h
+	"Includes.h"
+	"OnAnimate.h"
+	"Entity.h"
+	"Map.h"
+
+1447408187 c:\users\d1m1tur\documents\codeblocks projects\towerdefense\include\includes.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<typeinfo>
+	<fstream>
+	<sstream>
+
+1421764500 c:\users\d1m1tur\documents\codeblocks projects\towerdefense\include\onanimate.h
+	"Includes.h"
+
+1445718356 c:\users\d1m1tur\documents\codeblocks projects\towerdefense\include\entity.h
+	"Includes.h"
+
+1445943837 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\entity.cpp
+	"Game.h"
+
+1445720557 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\fps.cpp
+	"Game.h"
+
+1446301960 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\game.cpp
+	"Game.h"
+
+1444314168 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\onanimate.cpp
+	"OnAnimate.h"
+
+1446390153 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\onevent.cpp
+	"Game.h"
+
+1446302608 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\oninit.cpp
+	"Game.h"
+
+1446018334 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\onloop.cpp
+	"Game.h"
+
+1446200116 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\onrender.cpp
+	"Game.h"
+
+1447069121 c:\users\d1m1tur\documents\codeblocks projects\towerdefense\include\map.h
+	"TILE.h"
+	"Includes.h"
+
+1446390153 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\map.cpp
+	"Map.h"
+	"Game.h"
+
+1447067748 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\loadcontent.cpp
+	"Game.h"
+
+1446389084 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\enemies.cpp
+	"Enemies.h"
+
+1446388523 c:\users\d1m1tur\documents\codeblocks projects\towerdefense\include\enemies.h
+	"Includes.h"
+	"Entity.h"
+
+1446390190 source:c:\users\d1m1tur\documents\codeblocks projects\towerdefense\src\map_gameobjects.cpp
+	"Map.h"
+	"Game.h"
+
