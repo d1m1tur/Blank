@@ -7,6 +7,7 @@ TowerDefense is a game i was developing by i kind of gave up on that ...
 
 Frustration is another game made for a hackaton (SofiaGameJam) ... its made using Unity and
 the project is not included. It is a first person game with a main theme "What do i do now".
+For more info : http://globalgamejam.org/2015/games/frustration
 
 Multiplayer is a demo client for a multiplayer game with matchmaking system.
 
