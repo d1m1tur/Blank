@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1465340572 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\client.cpp
+	"Client.h"
+	"sstream"
+
+1465340572 c:\users\d1m1tur\documents\codeblocks projects\multiplayer\include\client.h
+	"SDL_net.h"
+	"Player.h"
+	"iostream"
+
+1465395515 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\event.cpp
+	"Game.h"
+
+1465336901 c:\users\d1m1tur\documents\codeblocks projects\multiplayer\include\game.h
+	"includes.h"
+
+1465328111 c:\users\d1m1tur\documents\codeblocks projects\multiplayer\include\includes.h
+	"SDL.h"
+	"SDL_image.h"
+	"LGTexture.h"
+	<iostream>
+	"Client.h"
+
+1465323006 c:\users\d1m1tur\documents\codeblocks projects\multiplayer\include\lgtexture.h
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	<string>
+	<stdio.h>
+
+1465321528 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\exit.cpp
+	"Game.h"
+
+1464030311 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\game.cpp
+	"Game.h"
+
+1465337155 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\init.cpp
+	"Game.h"
+
+1465322991 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\lgtexture.cpp
+	"LGTexture.h"
+
+1465336901 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\loadcontent.cpp
+	"Game.h"
+
+1465341519 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\loop.cpp
+	"Game.h"
+	<stdlib.h>
+
+1465336901 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\render.cpp
+	"Game.h"
+
+1465340572 c:\users\d1m1tur\documents\codeblocks projects\multiplayer\include\player.h
+	"LGTexture.h"
+
+1465340572 source:c:\users\d1m1tur\documents\codeblocks projects\multiplayer\src\player.cpp
+	"Player.h"
+	"iostream"
+

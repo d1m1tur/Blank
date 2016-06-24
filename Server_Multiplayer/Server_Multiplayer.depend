@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1465338575 source:c:\users\d1m1tur\documents\codeblocks projects\server_multiplayer\src\connection.cpp
+	"Connection.h"
+
+1465338575 c:\users\d1m1tur\documents\codeblocks projects\server_multiplayer\include\connection.h
+	<SDL_net.h>
+	<iostream>
+	<vector>
+
+1465339361 source:c:\users\d1m1tur\documents\codeblocks projects\server_multiplayer\src\server.cpp
+	"Connection.h"
+

@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1465125544 source:c:\users\winmac\desktop\codeblocksfiles\gametank\main.cpp
+	<SDL.h>
+	<stdio.h>
+	"Game.h"
+	"Tank.h"
+
+1465118877 source:c:\users\winmac\desktop\codeblocksfiles\gametank\game_oncleanup.cpp
+	"Game.h"
+
+1465091373 c:\users\winmac\desktop\codeblocksfiles\gametank\game.h
+	"SDL.h"
+	"SDL_image.h"
+
+1465081976 source:c:\users\winmac\desktop\codeblocksfiles\gametank\game_onevent.cpp
+	"Game.h"
+
+1465126242 source:c:\users\winmac\desktop\codeblocksfiles\gametank\game_oninit.cpp
+	"Game.h"
+	<stdio.h>
+	<iostream>
+	"SDL_image.h"
+
+1464481652 source:c:\users\winmac\desktop\codeblocksfiles\gametank\game_onloop.cpp
+	"Game.h"
+
+1464481652 source:c:\users\winmac\desktop\codeblocksfiles\gametank\game_onrender.cpp
+	"Game.h"
+
+1465125552 source:c:\users\winmac\desktop\codeblocksfiles\gametank\src\tank.cpp
+	"Tank.h"
+
+1465125544 c:\users\winmac\desktop\codeblocksfiles\gametank\include\tank.h
+	"SDL.h"
+	"SDL_image.h"
+	<iostream>
+
+1465118877 source:c:\users\d1m1tur\documents\codeblocks projects\gametank\game_oncleanup.cpp
+	"Game.h"
+
+1465091373 c:\users\d1m1tur\documents\codeblocks projects\gametank\game.h
+	"SDL.h"
+	"SDL_image.h"
+
+1465081976 source:c:\users\d1m1tur\documents\codeblocks projects\gametank\game_onevent.cpp
+	"Game.h"
+
+1464481652 source:c:\users\d1m1tur\documents\codeblocks projects\gametank\game_onloop.cpp
+	"Game.h"
+
+1464481652 source:c:\users\d1m1tur\documents\codeblocks projects\gametank\game_onrender.cpp
+	"Game.h"
+
+1465147017 source:c:\users\d1m1tur\documents\codeblocks projects\gametank\game_oninit.cpp
+	"Game.h"
+	<stdio.h>
+	<iostream>
+	"SDL_image.h"
+
+1465146374 source:c:\users\d1m1tur\documents\codeblocks projects\gametank\main.cpp
+	<SDL.h>
+	<stdio.h>
+	"Game.h"
+	"Menu.h"
+	"Tank.h"
+
+1465147342 c:\users\d1m1tur\documents\codeblocks projects\gametank\include\tank.h
+	"SDL.h"
+	"SDL_image.h"
+	<iostream>
+
+1465146696 source:c:\users\d1m1tur\documents\codeblocks projects\gametank\src\menu.cpp
+	"Menu.h"
+
+1465133191 c:\users\d1m1tur\documents\codeblocks projects\gametank\include\menu.h
+	"SDL.h"
+	"SDL_image.h"
+	"string"
+	"iostream"
+	"stdio.h"
+
+1465128610 source:c:\users\d1m1tur\documents\codeblocks projects\gametank\src\tank.cpp
+	"Tank.h"
+

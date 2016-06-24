@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1458256452 source:c:\users\d1m1tur\documents\codeblocks projects\temp\dmgtext.cpp
+	"DMGText.h"
+
+1458256489 c:\users\d1m1tur\documents\codeblocks projects\temp\dmgtext.h
+	<SDL.h>
+	<SDL_ttf.h>
+	"./include/LGTexture.h"
+	<sstream>
+	<string>
+	<list>
+	<iostream>
+
+1458246459 c:\users\d1m1tur\documents\codeblocks projects\temp\include\lgtexture.h
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	<string>
+	<stdio.h>
+
+1466003073 source:c:\users\d1m1tur\documents\codeblocks projects\temp\game.cpp
+	"Game.h"
+
+1458310543 c:\users\d1m1tur\documents\codeblocks projects\temp\game.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<Entity.h>
+	"Background.h"
+	"GUIBars.h"
+	"DMGText.h"
+
+1458311091 c:\users\d1m1tur\documents\codeblocks projects\temp\include\entity.h
+	"LGTexture.h"
+	<vector>
+
+1458256974 c:\users\d1m1tur\documents\codeblocks projects\temp\background.h
+	<SDL.h>
+
+1458257523 c:\users\d1m1tur\documents\codeblocks projects\temp\guibars.h
+
+1458256650 source:c:\users\d1m1tur\documents\codeblocks projects\temp\gameloop.cpp
+	"Game.h"
+
+1458256688 source:c:\users\d1m1tur\documents\codeblocks projects\temp\launcher.cpp
+	"Game.h"
+	"ServerConnection.h"
+
+1458257562 c:\users\d1m1tur\documents\codeblocks projects\temp\serverconnection.h
+
+1458256783 source:c:\users\d1m1tur\documents\codeblocks projects\temp\render.cpp
+	"Game.h"
+
+1456144062 source:c:\users\d1m1tur\documents\codeblocks projects\temp\serverconnection.cpp
+	"ServerConnection.h"
+
+1466002784 source:c:\users\d1m1tur\documents\codeblocks projects\temp\src\entity.cpp
+	"Entity.h"
+
+1458246138 source:c:\users\d1m1tur\documents\codeblocks projects\temp\src\lgtexture.cpp
+	"LGTexture.h"
+
+1466003050 source:c:\users\d1m1tur\documents\codeblocks projects\temp\eventslistener.cpp
+	"Game.h"
+	"ServerConnection.h"
+
